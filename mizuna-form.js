@@ -1,5 +1,4 @@
-<script type="text/javascript" id="bloomerangForm95736832"></script>
-<pre><script type="text/javascript">
+
     var insertForm95736832 = function() {
         var html95736832 = '<style text=\'text/css\'>' + 
 '.registration-form label{color: #404040;' + 
@@ -1116,5 +1115,3 @@
                 };
 
                 startBloomerangLoad();
-</script></pre>
-
