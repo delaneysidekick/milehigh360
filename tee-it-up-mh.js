@@ -124,8 +124,7 @@ var insertForm15536128 = function() {
 '' + 
 '#spreedly-modal-overlay[style="visibility:hidden"]{display: none;}' + 
 '' + 
-'
-        </style>' + 
+'</style>' + 
 '' + 
 '<div id="registration-form-container">' + 
 '  <form id="registration-form" class="registration-form" method="post" onsubmit="event.preventDefault(); collectPayment();">' + 
